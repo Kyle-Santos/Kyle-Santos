@@ -35,8 +35,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyle-santos&show_icons=true&locale=en&layout=compact" alt="kyle-santos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyle-santos&show_icons=true&locale=en&layout=compact&theme=gotham" alt="kyle-santos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyle-santos&show_icons=true&locale=en" alt="kyle-santos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyle-santos&show_icons=true&locale=en&theme=gotham" alt="kyle-santos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyle-santos&" alt="kyle-santos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyle-santos&theme=gotham" alt="kyle-santos" /></p>
