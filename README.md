@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-santos&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-santos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-santos" alt="kyle-santos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-santos&theme=gotham" alt="kyle-santos" /></a> </p>
 
 - 💬 Ask me about **cybersecurity**
 
