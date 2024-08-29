@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">An aspiring Cybersecurity Analyst</h3>
+<h1 align="center">An aspiring Cybersecurity Analyst</h1>
+<h3 align="center">ISC2 Certified in Cybersecurity | Sturtle CJWAPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-santos&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-santos" /> </p>
 
