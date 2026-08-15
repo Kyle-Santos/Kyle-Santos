@@ -1,15 +1,15 @@
-<h1 align="center">An aspiring Cybersecurity Analyst</h1>
-<h3 align="center">ISC2 Certified in Cybersecurity | Sturtle CJWAPT</h3>
+<h1 align="center">AI and Automation Enthusiast</h1>
+<h3 align="center">IBM DevOps Engineering | ISC2 Certified in Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-santos&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-santos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-santos&theme=onedark" alt="kyle-santos" /></a> </p>
 
-- 💬 Ask me about **cybersecurity**
+- 💬 Ask me about **Python Automation**
 
 - 📫 How to reach me **santoskyle76@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/kyle-santos-resume](https://tinyurl.com/kyle-santos-resume)
+- 📄 Know about my experiences [https://tinyurl.com/kyle-santos-resume](https://tinyurl.com/kyle-santos-cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
